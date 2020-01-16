@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+	background-color:#ffffd1;
+	font-family: Helvetica, Arial, sans-seif;
+	text-align: center;
+	font-size: 15px;
+	line-height: 30px;
+}
+
+header{
+	background-color:#DDDDDD;
+	border-bottom: 5px solid black;
+	border-top: 5px solid black;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	border-left: 2px dotted grey;
+	border-right: 2px dotted grey;
+	padding: 20px 100px 20px 100px;
+	background-color: #ffffe1;
+}
+
+main.Education{
+	border: 2px solid black;
+	border-radius: 10px;
+	background-color: #EEEEEE;
+	margin-top: 50px;
+}
+
+table{
+	text-align: left;
+	margin-left: 70px;
+}
+
+td{
+	height: 100px;
+}
