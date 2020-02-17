@@ -9,6 +9,8 @@ body{
 
 header{
 	background-color:#DDDDDD;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	border-bottom: 5px solid black;
 	border-top: 5px solid black;
 }
@@ -18,20 +20,17 @@ header h1{
 	font-size: 50px;
 }
 
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 7px solid white;
+}
+
 main{
 	max-width: 800px;
 	margin: 0 auto;
-	border-left: 2px dotted grey;
-	border-right: 2px dotted grey;
 	padding: 20px 100px 20px 100px;
 	background-color: #ffffe1;
-}
-
-main.Education{
-	border: 2px solid black;
-	border-radius: 10px;
-	background-color: #EEEEEE;
-	margin-top: 50px;
 }
 
 table{
