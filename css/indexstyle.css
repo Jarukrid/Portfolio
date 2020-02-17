@@ -29,11 +29,11 @@ header img{
 main{
 	max-width: 800px;
 	margin: 0 auto;
-	padding: 20px 100px 20px 100px;
+	padding: 20px;
 }
 
 table{
-	text-align: left;
+	text-align: center;
 	margin-left: 70px;
 }
 
