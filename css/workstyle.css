@@ -18,6 +18,14 @@ header h1{
 	font-size: 50px;
 }
 
+h2{
+	color: white;
+	font-size: 30px;
+	line-height: 70px;
+	background-color:#8190A5;
+	border-radius: 20px;
+}
+
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -27,11 +35,46 @@ main{
 	background-color: #ffffe1;
 }
 
-main.Education{
-	border: 2px solid black;
-	border-radius: 10px;
-	background-color: #EEEEEE;
-	margin-top: 50px;
+main.mindtech img{
+	max-width: 800px;
+	margin: -50px auto;
+}
+
+main.lovelive img{
+	max-width: 800px;
+}
+
+main.tekken img{
+	max-width: 800px;
+}
+
+main.knowque img{
+	max-width: 800px;
+}
+
+main.gladiators img{
+	max-width: 800px;
+}
+
+main.nexus img{
+	max-width: 800px;
+	margin: -50px auto;
+}
+
+main.typo img{
+	max-width: 800px;
+}
+
+main.headphones img{
+	max-width: 800px;
+}
+
+main.openturn img{
+	max-width: 800px;
+}
+
+main.cafe img{
+	max-width: 800px;
 }
 
 table{
